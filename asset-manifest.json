@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AlsafwoNew/static/css/main.4a9ea788.css",
+    "main.js": "/AlsafwoNew/static/js/main.e775b11a.js",
+    "static/media/homescreen.webp": "/AlsafwoNew/static/media/homescreen.5b0dba1a14211cb1175d.webp",
+    "static/media/444.webp": "/AlsafwoNew/static/media/444.7a3e2975311138fcdb1e.webp",
+    "static/media/gggg33.webp": "/AlsafwoNew/static/media/gggg33.02b1d1108c84db0f7988.webp",
+    "static/media/g5gggggg.webp": "/AlsafwoNew/static/media/g5gggggg.b4480bb60b4041032b79.webp",
+    "static/media/mmmmmmmmm.webp": "/AlsafwoNew/static/media/mmmmmmmmm.70d95737f6f1d5a4c7b3.webp",
+    "static/media/ffffff111111.webp": "/AlsafwoNew/static/media/ffffff111111.916ea4d89be8604f89ca.webp",
+    "static/media/Asset.png": "/AlsafwoNew/static/media/Asset.913c142618203d0e25f5.png",
+    "index.html": "/AlsafwoNew/index.html",
+    "main.4a9ea788.css.map": "/AlsafwoNew/static/css/main.4a9ea788.css.map",
+    "main.e775b11a.js.map": "/AlsafwoNew/static/js/main.e775b11a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9ea788.css",
+    "static/js/main.e775b11a.js"
+  ]
+}
